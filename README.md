@@ -14,6 +14,8 @@
 #### General Objective:
 - Prepare the data for Machine Learning to predict [Iowa Alcoholic Beverages Division](https://abd.iowa.gov/ "Iowa Alcoholic Beverages Division") 2022 income from Class E alcohol liquor sales across licensed vendors using historical data (2019, 2020, and 2021) from Iowa [Liquor Sales](https://console.cloud.google.com/marketplace/product/iowa-department-of-commerce/iowa-liquor-sales?project=lively-clover-358509 "Liquor Sales").
 #### Specific Objectives:
+- Set up the dataset in order to make it manageable. The [main](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy "main") dataset has 24+ million rows, which includes the sales from January 1st, 2012 to current, making it pretty hard to work with Google Colaboratory.
+- Choose a Target for our predictive model.
 - 
 
 #### Scope:
