@@ -24,8 +24,25 @@
 - Determine which prediction model would be used to be compared with real 2022 data in January 2023.
 
 #### Scope:
-- Our study consists of two parts. The [first](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20I:%20sales_prediction2023.ipynb "first") one is where we developed a visual analysis in order to understand the current situation of the sales, focused on how the visibility index could affect the sales performance.
-- In [Part II](https://github.com/edleafvirtual/sales_predictions2023/blob/main/Part%20II:%20sales_prediction2023_(ML).ipynb "Part II"), we prepared our data for Machine Learning, evaluating two regression methods to predict the sales for 2023.
+- Our study consists of two parts.
+   - Create a model to predict future income from sales (Gallons).
+   - Identify which Counties where Iowa Alcoholic Beverages Division would implement new procedures to agile payment and inspection processes.
+
+#### General description
+In general, when a [Licensed Vendor](https://abd.iowa.gov/licensing/licensepermit-fees "Licensed Vendor") sells alcoholic liquor to a store, this is the one who pays to Iowa State the fee per bottle sold (column 'State Bottle Retail' in our dataset).
+
+There are a few concepts/elements that we should clarify:
+  - Class E is the license to sell an unopened alcoholic liquor bottle off-premises in Iowa.
+  - The 'State Bottle Retail' is a fee based on the size of the 'Pack' and the 'Bottle Volume (ml)'.
+  - The ' Sale (Dollars)' is 'Bottles Sold' times 'State Bottle Retail'.
+  - This is the amount the stores pay to the Iowa Alcoholic Beverages Division per bottle sold. It's not the income per sale for store/vendor.
+  - 'Volume Sold (Gallons)' represents gallons sold by a transaction (row).
+
+The map below shows the average of gallons sold per County through the State, considering 2019, 2020, and 2021.
+
+![map](https://www.leafwebstudio.com/wp-content/uploads/2022/08/VOL-sold-average.png "map")
+
+
 
 #### Dataset:
 - *Work in progress*
