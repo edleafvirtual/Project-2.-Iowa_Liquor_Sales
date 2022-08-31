@@ -44,6 +44,10 @@ Based on Iowa State's sales through 2019, 2020, and 2021, the map below shows th
 ![Iowa Map](https://www.leafwebstudio.com/wp-content/uploads/2022/08/VOL-sold-sum-1.png "Iowa Map")
 
 
+Based on our Pareto Analysis in [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:"), we determined which counties represent around 80% of Volume Sold (Gallons) in 2019, 2020, and 2021. Following is a graph showing the top counties, sorted by volume sold, hued by quarter.
+
+![Pareto](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Vol-Sold-ana2.png "Pareto")
+
 
 #### Dataset:
 - *Work in progress*
