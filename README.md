@@ -75,4 +75,18 @@ According to the packed bubbles graph below, these are the top ten counties in t
 2.- Once the model is tuned, we would use its predictive values in order to plot more insights and also to show what our predictions look like. Subsequently in January 2023 when real data from 2022 were available in the data [source](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy "source"), we will be able to compare our model. This analysis would deliver some insights about the approach to be done by Data Engineering, to then enrich our Machine Learning process in order to deliver a product that could predict more precise and accurate future scenarios.
 
 ## Limitations
-- *Work in progress*
+- Splitting the data for Visual Exploration considering only 2019, 2020, and 2021 because of technical limitations (RAM/memory), is something that could have affected the final result. Trying to use some [ETL tools](https://www.geeksforgeeks.org/top-7-python-etl-tools-to-learn/?ref=gcse "ETL tools") or a cloud environment like AWS sounds to be a great solution.
+
+- By tuning our chosen predictive model, we should find the best environment for this task without burning time because of RAM\memory issues. It's true that Data Engineering could have a better effect on our model than just tuning, but selecting the right hyperparameter is very important.
+
+
+## Credits
+Eduardo Galindez
+<p>
+  <a href="https://www.linkedin.com/eduardogalindez/" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/edleafvirtual" rel="nofollow noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"> Github
+  </a>
+</p>
