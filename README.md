@@ -1,4 +1,4 @@
-![](https://www.leafwebstudio.com/wp-content/uploads/2022/07/png-20.png)
+![](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Iowa-Sales-Banner.png)
 
 ## Iowa Alcoholic Beverages Division - 2022 Income Prediction
 #### Since 2020, humanity has been facing epic challenges. The pandemic spread division within the community, making it harder to socialize and keep the microeconomics running. Our stakeholder, [Iowa Alcoholic Beverages Division](https://abd.iowa.gov/ "Iowa Alcoholic Beverages Division"), has been requested a predictive model using Machine Learning in order to be prepared for possible future scenarios.
