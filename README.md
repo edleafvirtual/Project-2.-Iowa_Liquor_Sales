@@ -62,7 +62,7 @@ Based on our Pareto Analysis in [Part A:](https://github.com/edleafvirtual/Iowa_
 
 According to the packed bubbles graph below, these are the top ten counties in terms of profit and volume sold in 2019, 2020, and 2021.
 
-![Top 10](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-10-volume-sold-profit.png "Top 10")
+![Top 10](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Iowa-Top-10-volume-sold-profit.png "Top 10")
 
 #### [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Predictive Model.
 
