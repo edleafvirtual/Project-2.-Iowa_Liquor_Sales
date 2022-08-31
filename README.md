@@ -27,17 +27,16 @@
 
 #### Scope:
 - Our study consists of two parts:
-   - [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:") Identify which Counties, Iowa Alcoholic Beverages Division would implement new procedures to agile payment and inspection processes.
+   - [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:") Identify which counties, Iowa Alcoholic Beverages Division would implement new procedures to agile payment and inspection processes.
    - [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Create a model to predict future income from sales (Gallons).
 
 #### General Description
-A [Licensed Vendor](https://abd.iowa.gov/licensing/licensepermit-fees "Licensed Vendor") sells alcoholic liquor to a store, being this the responsible of paying to Iowa State the fee per bottle sold (column 'State Bottle Retail' in our dataset).
+A [Licensed Vendor](https://abd.iowa.gov/licensing/licensepermit-fees "Licensed Vendor") sells alcoholic liquor to a store, being responsible for paying to Iowa State the fee per bottle sold (column 'State Bottle Retail' in our dataset). The State wants to agile administrative checkpoints, whose counties are more profitable. Part of the new procedures could be extending the deadline to pay the fees.
 
 There are a few concepts/elements that we should clarify:
   - Class E is the license to sell an unopened alcoholic liquor bottle off-premises in Iowa.
   - The 'State Bottle Retail' is a fee based on the size of the 'Pack' and the 'Bottle Volume (ml)'.
-  - The ' Sale (Dollars)' is 'Bottles Sold' times 'State Bottle Retail'.
-  - This is the amount the stores pay to the Iowa Alcoholic Beverages Division per bottle sold. It's not the income per sale for store/vendor.
+  - The ' Sale (Dollars)' is 'Bottles Sold' times 'State Bottle Retail'. This is the amount the stores pay to the Iowa Alcoholic Beverages Division per bottle sold. It's not the income per sale for store/vendor.
   - 'Volume Sold (Gallons)' represents gallons sold by a transaction (row).
 
 The map below shows the average of gallons sold per County through Iowa State, for 2019, 2020, plus 2021.
