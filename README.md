@@ -30,8 +30,8 @@
    - [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:") Identify which Counties, Iowa Alcoholic Beverages Division would implement new procedures to agile payment and inspection processes.
    - [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Create a model to predict future income from sales (Gallons).
 
-#### General description
-In general, when a [Licensed Vendor](https://abd.iowa.gov/licensing/licensepermit-fees "Licensed Vendor") sells alcoholic liquor to a store, this is the one who pays to Iowa State the fee per bottle sold (column 'State Bottle Retail' in our dataset).
+#### General Description
+A [Licensed Vendor](https://abd.iowa.gov/licensing/licensepermit-fees "Licensed Vendor") sells alcoholic liquor to a store, being this the responsible of paying to Iowa State the fee per bottle sold (column 'State Bottle Retail' in our dataset).
 
 There are a few concepts/elements that we should clarify:
   - Class E is the license to sell an unopened alcoholic liquor bottle off-premises in Iowa.
