@@ -56,6 +56,11 @@ Based on our Pareto Analysis in [Part A:](https://github.com/edleafvirtual/Iowa_
 ![Top 10](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-10-volume-sold.png "Top 10")
 
 
+2.- By evaluating profit performance by county, our stakeholder (Iowa Alcoholic Beverages Division) hoped to have a better idea of the focus point, thus reducing checkpoint downtime. In Part A of the study, we developed coding to determine which counties account for 80% of the volume sold, and which counties account for 80% of the state's profit. Using both lists, we identified 22 counties, as shown in the graph below.
+
+![22 counties](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-volume-sold-profit.png "22 counties")
+
+![Top 10](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-10-volume-sold-profit.png "Top 10")
 
 #### [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Predictive Model.
 
