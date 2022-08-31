@@ -49,11 +49,11 @@ Based on our Pareto Analysis in [Part A:](https://github.com/edleafvirtual/Iowa_
 ![Pareto](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Vol-Sold-pareto-2.png "Pareto")
 
 
-#### Dataset:
-- *Work in progress*
-
 ## Outcome
-### *Work in progress*
+### [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:"): Data Insights.
+
+
+### [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Predictive Model.
 
 ## Recomendations
 - *Work in progress*
