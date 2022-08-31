@@ -3,7 +3,7 @@
 ## Iowa Alcoholic Beverages Division - 2022 Income Prediction
 #### Since 2020, humanity has been facing epic challenges. The pandemic spread division within the community, making it harder to socialize and keep the microeconomics running. Our stakeholder, [Iowa Alcoholic Beverages Division](https://abd.iowa.gov/ "Iowa Alcoholic Beverages Division"), has been requested a predictive model using Machine Learning in order to be prepared for possible future scenarios.
 
-#### We must keep clear that our objective is not to design, create, and/or develop a Machine Learning model & Data Analytics to promote alcohol consumption or sales. The agreement with the stakeholder is to identify room for improvement in order to determine how to implement an agile process to reduce non-productive time caused by Quality Control checkpoints.
+#### Disclaimer: We must keep clear that our objective is not to design, create, and/or develop a Machine Learning model & Data Analytics to promote alcohol consumption or sales. The agreement with the stakeholder is to identify room for improvement in order to determine how to implement an agile process to reduce non-productive time caused by Quality Control checkpoints.
 
 #### Iowa Liquor Sales Project is an exercise that is part of Coding Dojo: Data Science Bootcamp, where I'm trying to show how Industrial Engineering and Data Science would be merged when we want to improve business process/KPI performances in current Industry 4.0.
 <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align="right" />
