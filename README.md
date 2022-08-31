@@ -27,7 +27,7 @@
 
 #### Scope:
 - Our study consists of two parts:
-   - [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:"): Identify which Counties, Iowa Alcoholic Beverages Division would implement new procedures to agile payment and inspection processes.
+   - [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:") Identify which Counties, Iowa Alcoholic Beverages Division would implement new procedures to agile payment and inspection processes.
    - [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Create a model to predict future income from sales (Gallons).
 
 #### General description
