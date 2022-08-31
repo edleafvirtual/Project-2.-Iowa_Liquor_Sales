@@ -60,6 +60,8 @@ Based on our Pareto Analysis in [Part A:](https://github.com/edleafvirtual/Iowa_
 
 ![22 counties](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-volume-sold-profit.png "22 counties")
 
+
+
 ![Top 10](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-10-volume-sold-profit.png "Top 10")
 
 #### [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Predictive Model.
