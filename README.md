@@ -60,7 +60,7 @@ Based on our Pareto Analysis in [Part A:](https://github.com/edleafvirtual/Iowa_
 
 ![22 counties](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-volume-sold-profit.png "22 counties")
 
-
+According to the packed bubbles graph below, these are the top ten counties in terms of profit and volume sold in 2019, 2020, and 2021.
 
 ![Top 10](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-10-volume-sold-profit.png "Top 10")
 
