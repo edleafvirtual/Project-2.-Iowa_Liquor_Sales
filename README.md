@@ -70,7 +70,8 @@ According to the packed bubbles graph below, these are the top ten counties in t
 ![ML metrics](https://www.leafwebstudio.com/wp-content/uploads/2022/08/ML-metrics.png "ML metrics")
 
 ## Recomendations
-- *Work in progress*
+1.- Tune the hyperparameters of the predictive model selected. Using [GridSearchCV](https://www.geeksforgeeks.org/daskgridsearchcv-a-competitor-for-gridsearchcv/#:~:text=GridSearchCV%20is%20a%20technique%20to,then%20the%20predictions%20are%20made. "GridSearchCV") or [RandomizedSearchVC](https://analyticsindiamag.com/guide-to-hyperparameters-tuning-using-gridsearchcv-and-randomizedsearchcv/#:~:text=The%20only%20difference%20between%20both,that%20increase%20the%20model%20generalizability. "RandomizedSearchVC") won't be enough, the tuning process starts with each critical parameter, and then uses [Scikit Learn's](https://scikit-learn.org/stable/modules/classes.html#hyper-parameter-optimizers "Scikit Learn's") tools.
+2.- 
 
 ## Limitations
 - *Work in progress*
