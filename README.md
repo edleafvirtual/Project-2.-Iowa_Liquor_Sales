@@ -51,6 +51,10 @@ Based on our Pareto Analysis in [Part A:](https://github.com/edleafvirtual/Iowa_
 
 ## Outcome
 #### [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:") Data Insights.
+- According to Iowa State data, the Top 10 counties with the highest volume sale (gallons) were identified. Using the bar chart below, we can see that the highest volume of sales occurs in the last quarter of the year. As we are in August 2022, if the Iowa Alcoholic Beverages Division wants to make improvements, it must be careful not to affect the highest volumes reported by the end of the year.
+- 
+![Top 10](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-10-volume-sold.png "Top 10")
+
 
 
 #### [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Predictive Model.
