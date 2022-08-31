@@ -39,9 +39,9 @@ There are a few concepts/elements that we should clarify:
   - The ' Sale (Dollars)' is 'Bottles Sold' times 'State Bottle Retail'. This is the amount the stores pay to the Iowa Alcoholic Beverages Division per bottle sold. It's not the income per sale for store/vendor.
   - 'Volume Sold (Gallons)' represents gallons sold by a transaction (row).
 
-The map below shows the average of gallons sold per County through Iowa State, for 2019, 2020, plus 2021.
+Based on Iowa State's sales through 2019, 2020, and 2021, the map below shows the amount of gallons sold per county.
 
-![map](https://www.leafwebstudio.com/wp-content/uploads/2022/08/VOL-sold-average.png "map")
+![Iowa Map](https://www.leafwebstudio.com/wp-content/uploads/2022/08/VOL-sold-sum-1.png "Iowa Map")
 
 
 
