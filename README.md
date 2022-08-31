@@ -65,6 +65,9 @@ According to the packed bubbles graph below, these are the top ten counties in t
 ![Top 10](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Iowa-Top-10-volume-sold-profit.png "Top 10")
 
 #### [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Predictive Model.
+1.- This part of the project produced the best results for each regression model tested. Below is the graph showing the best results for each model. Based on the results, Linear Regression is the model of choice. It has a lower MAE, meaning that is more accurate, and the highest R2 Score meaning is the most precise. 
+
+![ML metrics](https://www.leafwebstudio.com/wp-content/uploads/2022/08/ML-metrics.png "ML metrics")
 
 ## Recomendations
 - *Work in progress*
