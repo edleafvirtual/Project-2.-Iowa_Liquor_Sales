@@ -41,33 +41,33 @@ There are a few concepts/elements that we should clarify:
 
 Based on Iowa State's sales through 2019, 2020, and 2021, the map below shows the amount of gallons sold per county.
 
-![Iowa Map](https://www.leafwebstudio.com/wp-content/uploads/2022/08/VOL-sold-sum-1.png "Iowa Map")
+![Iowa Map](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/VOL%20sold%20sum.png "Iowa Map")
 
 
 Based on our Pareto Analysis in [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:"), we determined which counties represent around 80% of Volume Sold (Gallons) in 2019, 2020, and 2021. Following is a graph showing the top counties, sorted by volume sold, hued by quarter.
 
-![Pareto](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Vol-Sold-pareto-2.png "Pareto")
+![Pareto](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Vol%20Sold%20pareto%20(2).png "Pareto")
 
 
 ## Outcome
 #### [Part A:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_A--Exploratory_Analysis.ipynb "Part A:") Data Insights.
 1.- According to Iowa State data, the Top 10 counties with the highest volume sale (gallons) were identified. Using the bar chart below, we can see that the highest volume of sales occurs in the last quarter of the year. As we are in August 2022, if the Iowa Alcoholic Beverages Division wants to make improvements, it must be careful not to affect the highest volumes reported by the end of the year.
 
-![Top 10](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-10-volume-sold.png "Top 10")
+![Top 10](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Top%2010%20volume%20sold.png "Top 10")
 
 
 2.- By evaluating profit performance by county, our stakeholder (Iowa Alcoholic Beverages Division) hoped to have a better idea of the focus point, thus reducing checkpoint downtime. In Part A of the study, we developed coding to determine which counties account for 80% of the volume sold, and which counties account for 80% of the state's profit. Using both lists, we identified 22 counties, as shown in the graph below.
 
-![22 counties](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Top-volume-sold-profit.png "22 counties")
+![22 counties](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/PROFIT%20pareto%20location.png "22 counties")
 
 According to the packed bubbles graph below, these are the top ten counties in terms of profit and volume sold in 2019, 2020, and 2021.
 
-![Top 10](https://www.leafwebstudio.com/wp-content/uploads/2022/08/Iowa-Top-10-volume-sold-profit.png "Top 10")
+![Top 10](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Iowa%20Top%2010%20volume%20sold%20profit.png "Top 10")
 
 #### [Part B:](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/Part_B--ML_Modeling.ipynb "Part B:") Predictive Model.
 1.- This part of the project produced the best results for each regression model tested. Below are the graphs showing the best results for each model. Based on the results, Linear Regression is the model of choice. It has a lower MAE, meaning that is more accurate, and the highest R2 Score meaning is the most precise.   
 
-![ML metrics](https://www.leafwebstudio.com/wp-content/uploads/2022/08/ML-metrics.png "ML metrics")
+![ML Metrics](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/ML%20metrics.png "ML Metrics")
 
 ## Recomendations
 1.- Tune the hyperparameters of the predictive model selected. Using [GridSearchCV](https://www.geeksforgeeks.org/daskgridsearchcv-a-competitor-for-gridsearchcv/#:~:text=GridSearchCV%20is%20a%20technique%20to,then%20the%20predictions%20are%20made. "GridSearchCV") or [RandomizedSearchCV](https://analyticsindiamag.com/guide-to-hyperparameters-tuning-using-gridsearchcv-and-randomizedsearchcv/#:~:text=The%20only%20difference%20between%20both,that%20increase%20the%20model%20generalizability. "RandomizedSearchCV") won't be enough, the tuning process starts with getting different scenarios for each critical parameter, and then uses [Scikit Learn's](https://scikit-learn.org/stable/modules/classes.html#hyper-parameter-optimizers "Scikit Learn's") tools.
