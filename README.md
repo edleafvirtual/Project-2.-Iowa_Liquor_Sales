@@ -70,9 +70,11 @@ According to the packed bubbles graph below, these are the top ten counties in t
 ![ML Metrics](https://github.com/edleafvirtual/Iowa_Liquor_Sales/blob/main/ML%20metrics.png "ML Metrics")
 
 ## Recomendations
-1.- Tune the hyperparameters of the predictive model selected, using multiple [cross-validation](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74 "cross-validation") methods. 
+1.- Select 1% of the data per year (2012 - 2021), concatenate them in order to re-do the Part B of the project. The model should learn from yearly behavior.
 
-2.- Once the model is tuned, we would use its predictive values in order to plot more insights and also to show what our predictions look like. Subsequently in January 2023 when real data from 2022 were available in the data [source](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy "source"), we will be able to compare our model. This analysis would deliver some insights about the approach to be done by Data Engineering, to then enrich our Machine Learning process in order to deliver a product that could predict more precise and accurate future scenarios.
+2.- Tune the hyperparameters of the predictive model selected, using multiple [cross-validation](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74 "cross-validation") methods. 
+
+3.- Once the model is tuned, we would use its predictive values in order to plot more insights and also to show what our predictions look like. Subsequently in January 2023 when real data from 2022 were available in the data [source](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy "source"), we will be able to compare our model. This analysis would deliver some insights about the approach to be done by Data Engineering, to then enrich our Machine Learning process in order to deliver a product that could predict more precise and accurate future scenarios.
 
 ## Limitations
 - Splitting the data for Visual Exploration considering only 2019, 2020, and 2021 because of technical limitations (RAM/memory), is something that could have affected the final result. Trying to use some [ETL tools](https://www.geeksforgeeks.org/top-7-python-etl-tools-to-learn/?ref=gcse "ETL tools") or a cloud environment like AWS sounds to be a great solution.
